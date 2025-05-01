@@ -12,6 +12,6 @@
 
 ## Shantel Gray
 
-# Power Code Acamdeny Instructor
+# Power Code Academy Instructor
 
 ## Stove McKeon
