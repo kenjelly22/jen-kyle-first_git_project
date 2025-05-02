@@ -1,17 +1,36 @@
-# Power Code Academy Students
+# My 4 Favorite Ruby methods
 
-## Jen Kelly
+### `downcase` (String)
 
-## Kyle Housel
+Changes all letters to their lowercase form if not already
 
-## Nihar Patel
+```ruby
+"ABC".downcase #=> "abc"
+```
 
-## Emily Kanarek
+### `sort` (Array)
 
-## Mike Clancy
+Sorts an array by the values from least to greatest
 
-## Shantel Gray
+```ruby
+[3,1,6,3].sort #=> [1,3,3,6]
+```
 
-# Power Code Academy Instructor
+### `values`(Hash)
 
-## Stove McKeon
+Return an array of the values of all of the keys in a hash
+
+```ruby
+{
+    hi: "hello",
+    bye: "goodbye"
+}.values #=> ['hello', 'goodbye']
+```
+
+### `odd?` (Integer)
+
+Boolean value returning true if the number is odd or false if even
+
+```ruby
+3.odd? #=> true
+```
